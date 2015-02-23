@@ -1,0 +1,45 @@
+Meeting #8, 16/02/15 
+
+Members in Attendance: Alex, Kat, Owen, Luke
+Apologies: James 
+
+The group met to discuss progress on the project so far. The introduction has been altered to better reflect the supervisor’s feedback, and so have the aims and objectives. The latter will be included once they have been re-uploaded to the shared drive. The academic references section has been changed, also with the purpose of incorporating the supervisor’s feedback, but could benefit from a further proofread. In addition to this, the Gantt chart and plans have been adapted to include the main aspects of the next stage of the documentation, and the sprints now only begin after the coding starts, in order to better reflect Agile principles. The risk matrix has similarly incorporated the ‘last resort’ idea, but this could perhaps be expanded on further in terms of what the group would expect the physical implementation to be. 
+	Besides this, the only section of the proposal that still needed completion was the mark allocation section. This was completed quickly and efficiently, as allocating marks was a straightforward matter – as the other entries in the appendix show, all members have a strong attendance record, everyone met each deadline that was set and all group members consistently engaged with the completion of project work between meetings. The references section had been cleaned up and completed during work on the proposal, and the appendix will be complete after details of this final meeting have been added. 
+	After this the group discussed potential design ideas for the website. Layouts that had been built previously by team members were considered for use, and the idea of a simplistic layout was preferred for the time to implement it and the suitability of the design when showing it to the user. In addition to this, other sites with a forum feature (such as Stack Overflow) had notably simple layouts due to the need to include potentially complex formats. It was also considered that a dynamic banner should be included in the site, with images or text that changes by itself. The group has used such scripts previously, so its inclusion would not have significant overhead in terms of time. The same can be said of ‘dropdown boxes’, wherein certain text will only be seen once the header box has been clicked on. Colour scheme was also briefly discussed. It was again generally preferred to keep things simple – professional sites such as Norton and Kapersky tended to have a ‘professional’ angle in their colour scheme, including colours like white, grey, red and black. The predominant colour was often white with other colours acting as highlights. It was suggested within the group that white alone was too austere, and a gradient could be used in the background, or more unusual colour choices such as grey or orange could be employed. Brief discussion was had as to the font that should be used (with a sans serif font such as Comic Sans suggested as being easier to read for all users concerned). 
+	The group will conduct some last proofreading and tweaking before handing in the final draft on Wednesday. In addition to this, the group needs to begin the creation of paper prototypes for the website, and gather some feedback from ‘novice users’ as to their security expectations in order to help inform which features should be included in the site. The design of the database schema also needs to be considered for the implementation of the forum. The group has requested for space on the university web server, which will be set up, but will be able to test locally using Wamp Server. Code will be managed on GitHub, which allows version control and will enable the group to more easily work on the same code without issues merging new versions together. The group therefore also needs to familiarise themselves with GitHub. This applies to both sides of the design team, as the same central code will be used for both. 
+	On a side note, the group discussed a few ideas for the name of the website. An amalgamation of the initials of the first names of the group was considered, or a name such as C.A.R.E – Cyber Awareness Research Education, for example. While many domain names will be already occupied, our use of the university server means that this should not be too much of a problem in the long run.     
+
+Decisions Made: 
+
+The group will:
+
+1) Perform a last polish of the project proposal and some final proofreading before hand-in.
+2) Complete the design of the database schema. 
+3) Complete initial paper prototypes. 
+4) Practice pushing initial template code to GitHub. 
+
+Work and task allocations: 
+
+Assigned to: Everyone
+
+1) Polish and prepare the last parts of the project proposal ready for hand-in. 
+2) Get familiarised with any necessary software for the next design stages. 
+
+Assigned to: Owen, Alex, James
+
+1) Complete paper prototypes for the website. 
+2) Get feedback from novice users. 
+
+Assigned to: Kat, Luke
+
+1) Complete potential schema designs for the website. 
+2) Select one based on feedback from potential users and normalise.  
+ 
+Deadlines Met: 
+
+Every group member has improved their assigned part of the project proposal. Initial design has been considered and materials have been drawn together, and research into the needed programming languages has begun.  
+
+Progress in achieving each objective: 
+
+The first draft is complete and simply needs to be polished, ready for submission. Design of the website and database has begun. 
+ 
