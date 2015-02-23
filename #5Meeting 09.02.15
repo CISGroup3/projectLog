@@ -1,0 +1,40 @@
+Meeting Number: #5 /09/02/2015, 11:00 – 12:00
+Members in Attendance: Full House (Owen, Luke, James, Alex, Kat)	Apologies: N/A
+Presented Progress: 
+All of the group have gathered references to be used in the academic section. 
+An initial draft has been completed for each section of the proposal. 	Suggestions for Improvement of Pre-Existing Work:
+The Gantt chart will need to be reworked to include the more definite details mentioned in the project brief. 
+The conclusion to the introduction will be changed in order to include a lead-in to the next section.
+The introduction will include a further breakdown of the suggested tasks for inclusion. 
+The risk matrix needs to include the risk of poor communication over the Easter break affecting the strong close of the project. 
+The appendix needs changing to fit the rest of the project and be more academic in style.  
+Discussed Items: 
+	The group presented their progress so far on each part of the proposal draft. 
+	For the WBS, the MoSoCoW rules have been incorporated as discussed, and the chosen Agile methodology has been incorporated as an integral part of the work breakdown structure. The group also intends to adopt the practice of coding in pairs. As the newsfeed has been demoted to ‘would like to have’, it is not currently scheduled in the sprints. There are currently three suggested sprints. The first is for the design of the website and schema, the second for the building of the ‘must have’ functions, and the third is for the ‘should have’ functions. The documentation of the project also needs to be included in this process.  
+	The Gantt chart and plan is subject to change as the CRG and brief for the project as a whole has just been released, and the completion of the documentation needs to be considered alongside the completion of the website and database.
+	It was proposed as part of the plan that the weekends could be used as contingency time, with an official ‘working’ week reserved for the weekdays. 
+	The introduction has been redrafted in order to include more references to the project’s attempts to address a common problem. The conclusion needs changing – this can be done when the project is put together as a whole as this section should lead in to the aims and objectives. The third draft of the introduction is currently on the shared drive, and Luke’s references include links to websites which have been recorded in the Harvard style, ready for insertion into a reference list. 
+	After discussion, it was agreed that not including a comparative final value combining the risk and the likelihood on the risk matrix was justified as no real monetary value can be put on the possible effect of a lag on the project, but preventative measures should be taken accordingly. However, it was raised that the matrix needs to include the risk of communications breaking down due to the group being on holiday for two weeks near the end of the project, as this risk occurs during a crucial part of the delivery process. Therefore this will be considered as part of the risk matrix.  
+	The aims and objectives have been broken down more than they had previously and will be uploaded in a few days. 
+	A provisional deadline of the 9th March has been set as the date for the first two sprints to be done and all ‘must haves’ need to be complete. 
+	The group needs to use GitHub. Learning how to push and pull work from the group repository is therefore a  
+	There was some debate about the format of the appendix – currently both an appendix and a log is being kept, the former of which is a more informal summary. The supervisor could be conducted about which format is most appropriate, as both attempt to adhere to the CRG. 
+	Through observing tutorials with PHP it seems as though the language is very similar to C#, so it does not seem as though there should be too many problems integrating scripts into the website. The appropriate choice for the database appears to be MySQL, which is free and allows a database connection to be made through PHP in HTML code. The first hurdle to overcome before the project can begin is establishing a web server for the connection to be formed from. 
+	The last part of the proposal that needs to be organised is the completion of the academic references section. This means that everyone’s research needs to be brought together into a cohesive whole. As everyone’s research is mostly already gathered into the previously suggested research headings, the group needs to use the references to express the need the website will attempt to fulfil, as well as the justification for it.  
+	In order to do this, the group will meet at 12pm on Wednesday in the library. The group will also put the document together as a whole and give a preparation copy of the file to the group’s supervisor.  
+	Therefore, the drafts need to be done by Wednesday. 
+Agreed Action: Gather for another meeting to finish the academic references section. 	Next Meeting: 11/02/15, 12 – 2pm, UL108 
+Work to be Prepared for Next Meeting: Completion of draft work. 
+Responsible Party: All
+Completion Deadline: 11/02/2015	Task: 
+	Refine draft work further and push changes up to the group’s shared drive.  
+Responsible Party: All
+Completion Deadline: 11/02/2015  	Task: 
+	Find more academic references from books and journals. 
+Responsible Party: All
+Completion Deadline: None (only if there is time)	Task:
+	Create a rough paper prototype. 
+Responsible Party: Any
+Completion Deadline: None (only if there is time)	Task:
+	Research into PHP or MySQL.  
+
