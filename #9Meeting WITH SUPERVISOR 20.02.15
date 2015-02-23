@@ -1,0 +1,48 @@
+Meeting #9, 20/02/15 [WITH SUPERVISOR]
+
+Members in Attendance: Owen, James, Alex, Kat, Luke
+Apologies: None  
+
+The group met with the supervisor to discuss the next stage of the project. Until the project is further into the development of the website, meetings with the supervisor will be more to ‘check-up’. The meeting next week is expected to be similarly short. The group met up individually afterward to discuss the next project stage. It was decided not to include the comparison page in the database section and make this an image instead. It was also decided that providing the user with an option to change their password would be built at the end if time allowed. This was also applied to putting operating system details in the FAQ. The earlier suggestion of including an animated banner has been decided against on the basis that the most ‘professional’ looking technology websites do not use them, and they can look garish if not integrated properly. Various website ideas were discussed, and it was decided to show the various paper prototypes to the family or friends of the team who fit the term ‘novice user’, as well as display the designs for comment on Facebook to gather feedback. Preferences can then be gathered into a final design. The schema also needs to be designed and built, and further research done into MySQL. 
+
+Decisions Made: The group will:
+
+1) Complete paper prototypes and get feedback on the various options from potential ‘novice users’
+2) Complete the database schema and build the database in MySQL
+3) Complete the basic structure of the website
+4) Complete further research needed for the project 
+
+Work and task allocations:
+
+The group will follow the two team format mentioned previously. 
+
+Assigned to: Website Team (Owen, James, Alex)
+
+1) Complete neater paper prototypes.
+2) Show several different paper prototypes to people falling into the ‘novice user’ category in order to elicit feedback and gain a better understanding of their security preferences. 
+3) Establish the basic structure and content expectations of the website. 
+4) Post designs and gain more feedback via Facebook. 
+
+Assigned to: Database Team (LBQ)
+
+1) Finalise schema design details. 
+2) Research into how to create a login system using PHP. 
+
+Assigned to: Database Team (KA)
+
+1) Create the database in MySQL.
+2) Research how to create an online instance of the database for use. 
+
+Assigned to: Everyone
+
+1) Think up further website names. 
+2) Ask novice users about preferred or expected content for the website and the forum. 
+
+Deadlines Met: 
+
+The proposal has been completed and handed-in on time. Initial versions of the paper prototypes and database schema have been completed. Final designs need to be selected and feedback from potential users gained.
+
+Progress in achieving each objective:
+
+The team is ready to begin the design stage in full, in time for the official design sprint. 
+
