@@ -1,0 +1,37 @@
+Meeting #14, 13/03/15 [WITH SUPERVISOR]
+
+Members in Attendance: Owen, Alex, Kat, Luke, James
+Absences: N/A  
+
+Decisions Made: The group will:
+
+1) Consolidate the last of the functionality of the website and the forum. 
+
+Work and task allocations:
+
+Assigned to: Website Team (Owen, James, Alex)
+
+1) Create further textual content for the website (James).
+2) Work on more radio buttons and structure for the website (Alex).
+3) Find a way to integrate the lightbox code with the login form (Owen). 
+
+Assigned to: Database Team (LQB, KA)
+
+1) Create the first part of the forum – when the user clicks on one of the category links on the first forum page, a list of the titles of questions in that category should be returned on a new page. Once this has been completed, the list of questions will then be used to link to a page returning the question content itself in a read-only format (Luke). 
+2) Change the question form so that the response box appears on another page, and the user can only reach it if they are logged in and press the ‘Post a Reply!’ button. Some minor aesthetic changes need to be made, such as moving the user’s score to the far right of the textbox, making the score bold, and possibly making the arrows more visible. In addition to this, it would be useful if the number could be coded so that the font changes colour depending on the rating of the question. Besides this, the main issue is that the voting system needs to be validated further – the user who posted the question should not be able to up or down vote their own comment, and a user should be able to up or down vote a comment only once, in one direction, but may cancel their choice if they please. In other words, a user can only change a question’s score +1 or -1 from where it originally reached, but they can cancel their choice and reinput if they felt they erroneously marked a question up or down. The ability to make comments should be applied to the responses also if possible. After this, the total of the points and responses should be applied as the cumulative total for the user’s reputation. However, this is a function to be considered only if the time is available. The same applies to a user profile screen that allows the password to be changed, and a way to return all the questions associated with one user. A way to delete the questions by the user who posted it could also be incorporated. It could also be beneficial to consider a way to make response results break across two pages if there are more than ten (Kat). 
+
+Deadlines Met: 
+
+Further content has been added and the SUS results have been consolidated, so this feedback needs to incorporated into the functional website where relevant. Due to difficulties integrating Lightbox code with the PHP, work on finding a way to use a Lightbox script to make a popup form appear for login will continue. The team has also begun work on the troubleshooting page. Work on the first part of the forum will continue, and a page has been created for returning questions that allows comments to be entered, and includes an upvote/downvote system on the question itself.  
+
+Progress in achieving each objective:
+The team is relatively well on target, if the forum can be completed along with the troubleshooting page in about a week or so. 
+
+
+Summary:
+
+The group met and showed current progress to the supervisor. It was commented that the team should be aware of the possible need for narrowing the amount of features intended to be included, in order to make the scope of the website manageable. She also pointed out that, in future, references used from articles and newspapers should be paraphrased if necessary in order to avoid the use of informal language. Additionally, if the Gantt chart needs to be included for part 2 of the proposal, then it needs to be adapted to include items that were missed from the objectives. If it does not need to be included, it should be mentioned that the originally planned sprint dates had to be adapted to include the questionnaires and SUS evaluation, in addition to the evaluation being included at the end.  
+
+
+ 
+
