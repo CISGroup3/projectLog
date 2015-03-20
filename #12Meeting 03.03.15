@@ -1,0 +1,41 @@
+Meeting #12, 03/03/15 
+
+Members in Attendance: Owen, Alex, Kat, Luke, James
+Apologies: None  
+
+Decisions Made: The group will:
+
+1) Research into how the forum can be achieved. 
+2) Work out any bugs with the formatting and login system, and ensure the database is consistent. 
+
+Work and task allocations:
+
+The group will follow the two team format mentioned previously. 
+
+Assigned to: Website Team (Owen, James, Alex)
+
+1) Continue creating content and work out any kinks in the system (Owen and Alex).
+2) Analyse the SUS results on the shared drive  using the scoring method and observing for common trends for the qualitative questions (James).
+
+Assigned to: Database Team (LQB, KA)
+
+1) Copy the login system to the other pages and work out any bugs. 
+2) Look into using FTP to move the database to the server. 
+
+Assigned to: Everyone
+
+1) Look into how the forum information will be displayed on the site. 
+2) Finish off last week’s Critical Reflection section. 
+3) Become familiar with GitHub. 
+
+Deadlines Met: 
+
+The website team has created the antivirus table and main content formatting. The login and registry system are working, but this needs to be replicated across all the pages. The current validation on the pages should be fine, but further consideration needs to be given to preventing the user to create an account using the same email address, and validating that the account exists. A graphic has been created for the table comparing different antivirus software.  
+
+Progress in achieving each objective:
+
+The placeholder layout for the website has been created, but the content needs finalising and made consistent on every page. The login system has been created but needs applying universally, and the validation is more or less sound but needs testing to ensure no messy errors appear. Validation of the email address of the user needs consideration. 
+
+Summary:
+
+The group met and discussed progress to date. It was decided to try and look into the forum system by the next informal meeting, which will be on Wednesday (12pm in Lab C; a catch-up session as usual). 
