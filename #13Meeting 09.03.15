@@ -1,0 +1,41 @@
+Meeting #13, 09/03/15
+
+Members in Attendance: Owen, Alex, Kat
+Absences: Luke, James   
+
+Decisions Made: The group will:
+
+1) Move on to create new content, namely the troubleshooting page. 
+2) Review the current design using the SUS results. 
+3) Create the rest of the forum system. 
+
+Work and task allocations:
+
+Assigned to: Website Team (Owen, James, Alex)
+
+1) Further text and images (where needed) adding to the website in order to flesh out the body of the main content for the website. (James). 
+2) Use a ‘Lightbox’ script to make a new window appear that is given focus when the login link is clicked. This will integrate the login form to the main page rather than redirecting to a new one. (Owen).
+3) Begin work on the troubleshooting page (Alex and Owen). 
+
+Assigned to: Database Team (LQB, KA)
+
+1) Have the links on the current forum page redirect to another page returning all the question titles in that category. (Luke Quintana Baker)
+2) Return an existing question as read-only, with a response box available. (Kat)
+
+Assigned to: Everyone
+
+1) Continue gathering references where necessary and observations for the Critical Reflection. 
+
+Deadlines Met: 
+
+The glitch where the navigation bar was moving to the right on one particular page has been resolved. Formatting may be re-addressed at the end, when the bulk of the content and coding has been completed. The SUS analysis is in progress, but the results still need to be worked into further planning of the website design, functionality and content. The login system has been copied in to the other pages, but as these have been outmoded again, a ‘universal version’ needs to be created that everyone will work from, and pushed up to GitHub. 
+
+Progress in achieving each objective:
+
+The team is currently behind due to mass illness preventing a quick turnaround on the forum, and an unexpected problem with formatting led to content being created more slowly than expected. Therefore it may be necessary to discuss if it is necessary to cut any features from the planned roster in order to deliver a reasonable level of quality.  
+
+Summary:
+
+The group met and showcased content so far. The website team will continue on to address a new area of the site, and a universal version of the pages needs to be created that everyone will work from. 
+
+ 
