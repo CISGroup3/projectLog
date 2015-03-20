@@ -1,0 +1,39 @@
+Meeting #10, 23/02/15 
+
+Members in Attendance: Owen, Alex, Kat, Luke
+Apologies: None  
+Absences: James
+
+The group discussed progress so far on the project. The database has been built and once the group decides on a domain name, free hosting that supports MySQL can be looked into. Neater versions of the paper prototype have also been drawn up to show to potential users. In addition to this, the team have also been experimenting with layouts and colours on a prototype version of the website. Different possible names were also discussed. The team now all need to get feedback on the paper prototypes from potential users with both qualitative and quantitative questions, in addition to creating the preliminary virus comparison graphic and needed database scripts. The focus of this week’s sprint is to complete the database design. 
+
+Decisions Made: The group will:
+
+1) All get feedback on the paper prototypes, including quantitative data and follow-up qualitative data and user opinions on names.
+2) Gather the information needed for the comparison graphic.
+3) Complete preliminary scripts for the website.
+
+Work and task allocations:
+
+The group will follow the two team format mentioned previously. 
+
+Assigned to: Website Team (Owen, James, Alex)
+
+1) Continue work on the navigation bar formatting CSS 
+
+Assigned to: Database Team (LQB, KA)
+
+1) Start work on other necessary scripts to be integrated with the HTML files. 
+
+Assigned to: Everyone
+
+1) Show the paper prototypes to people falling into the ‘novice user’ category in order to elicit feedback and gain a better understanding of their security preferences. 
+2) Become accustomed to using GitHub. 
+
+Deadlines Met: 
+
+Paper prototypes have been made and an initial version of the database schema and build have been completed.
+
+Progress in achieving each objective:
+
+The team is ready to begin the design stage in full, in time for the official design sprint. 
+ 
