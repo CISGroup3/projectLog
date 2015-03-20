@@ -1,0 +1,45 @@
+Meeting #11, 27/02/15 [WITH SUPERVISOR] 
+
+Members in Attendance: Owen, Alex, Kat, Luke, James
+Apologies: None  
+
+Decisions Made: The group will:
+
+1) Use the name ‘Athena’ for the website, based on feedback from the questionnaires. 
+2) Complete the FAQ and comparison page before beginning work on the design of the forum. 
+3) Continue with the registry and login scripts. 
+4) Use the server to FTP testing files. 
+5) Begin preliminary work on the Critical Reflection. This will be done every week to ensure records are accurate.  
+
+Work and task allocations:
+
+The group will follow the two team format mentioned previously. 
+
+Assigned to: Website Team (Owen, James, Alex)
+
+1) Complete the antivirus table and content formatting and CSS (Owen, Alex). 
+2) Design the graphic for the antivirus comparison (James).
+
+Assigned to: Database Team (LQB, KA)
+
+1) Add validation to the email registry PHP. 
+2) Create a login page in PHP that affects the links appearing on the Index page. 
+
+Assigned to: Everyone
+
+1) Complete a short paragraph or so for the Critical Reflection, looking back on this week’s work. 
+2) Get further feedback on the designs if this has not been completed already. 
+3) Become familiar with GitHub. 
+
+Deadlines Met: 
+
+The CSS for the main page has been largely completed. The registry form for the forum has been completed, but needs validating adding, as well as a login system. Some paper prototype feedback has been gathered. The team still needs to develop a version control system or agreement on how to submit changes to the project, and become familiar with GitHub to prevent overwriting data. 
+
+Progress in achieving each objective:
+
+The initial web layout has been completed, and the basis for the registry system is working. Some design feedback has been gathered.  
+
+Summary:
+
+The group met with the supervisor and discussed progress so far. It was suggested that meetings should be structured to discuss if the work allocated in the previous meeting had been completed, and then further objectives can be set. To this end, the project logs have been restructured to put the progress first and summary last. The supervisor also suggested that the website should be evaluated at the end by the same users from the focus groups. The supervisor will not be part of the meeting next week, making the next one with her two weeks on Friday (13th March). 
+
